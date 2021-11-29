@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cookies {
+    color: brown;
+}
+
+.pizzas {
+    color: blue;
+}
+
+table, 
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.red {
+    border: 1px solid red;
+    color: red;
+}
+
+.space {
+    padding-left: 10px;
+    padding-right: 10px;
+}
