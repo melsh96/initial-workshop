@@ -25,3 +25,12 @@ td {
     padding-left: 10px;
     padding-right: 10px;
 }
+
+.New-Table {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.New-Table th, td {
+    padding: 10px;
+}
